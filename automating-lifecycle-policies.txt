@@ -1,1 +1,1 @@
-aws s3api put-bucket-lifecycle-configuration --bucket <your-bucket-name> --lifecycle-configuration file://<lifecycle-json-file>
+aws s3api put-bucket-lifecycle-configuration --bucket <your-bucket-names> --lifecycle-configuration file://<lifecycle-json-file>
